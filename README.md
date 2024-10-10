@@ -1,2 +1,2 @@
 # FAM-Web
-Hemsidan till KTH FAM - Flemingsbergs Arbetsbarknad
+Hemsidan till KTH FAM - Flemingsbergs Arbetsmarknad
